@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "38. Debugging, Breakpoints, Runtime Error and Compile time Error", "38. Debugging, Breakpoints, Runtime Error and Compile time Error", "{8DD87C3F-E87F-4CBB-9659-BD4F781F7E03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyApp", "38. Debugging, Breakpoints, Runtime Error and Compile time Error\MyApp\MyApp.csproj", "{AC69C959-7692-425E-92BB-90745E4C90A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC69C959-7692-425E-92BB-90745E4C90A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC69C959-7692-425E-92BB-90745E4C90A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC69C959-7692-425E-92BB-90745E4C90A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC69C959-7692-425E-92BB-90745E4C90A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AC69C959-7692-425E-92BB-90745E4C90A6} = {8DD87C3F-E87F-4CBB-9659-BD4F781F7E03}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A058F3B9-5D72-46D0-95D4-F316E152B1CE}
+	EndGlobalSection
+EndGlobal
