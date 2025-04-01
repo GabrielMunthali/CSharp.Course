@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\bin\Debug\net8.0\57. Else if keyword and order of importance.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\bin\Debug\net8.0\57. Else if keyword and order of importance.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\bin\Debug\net8.0\57. Else if keyword and order of importance.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\bin\Debug\net8.0\57. Else if keyword and order of importance.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\bin\Debug\net8.0\57. Else if keyword and order of importance.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\57. Else if keyword and order of importance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\57. Else if keyword and order of importance.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\57. Else if keyword and order of importance.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\57. Else if keyword and order of importance.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\57. Else if keyword and order of importance.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\57. Else if keyword and order of importance.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\refint\57. Else if keyword and order of importance.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\57. Else if keyword and order of importance.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\57. Else if keyword and order of importance.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\57. Else if keyword and order of importance\obj\Debug\net8.0\ref\57. Else if keyword and order of importance.dll
