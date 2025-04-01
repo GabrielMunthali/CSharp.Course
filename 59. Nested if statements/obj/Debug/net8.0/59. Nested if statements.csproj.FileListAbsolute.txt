@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\bin\Debug\net8.0\59. Nested if statements.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\bin\Debug\net8.0\59. Nested if statements.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\bin\Debug\net8.0\59. Nested if statements.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\bin\Debug\net8.0\59. Nested if statements.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\bin\Debug\net8.0\59. Nested if statements.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\59. Nested if statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\59. Nested if statements.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\59. Nested if statements.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\59. Nested if statements.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\59. Nested if statements.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\59. Nested if statements.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\refint\59. Nested if statements.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\59. Nested if statements.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\59. Nested if statements.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\59. Nested if statements\obj\Debug\net8.0\ref\59. Nested if statements.dll

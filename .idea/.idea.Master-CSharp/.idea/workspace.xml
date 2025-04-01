@@ -4,6 +4,7 @@
     <projectFile>38. Debugging, Breakpoints, Runtime Error and Compile time Error/MyApp/MyApp.csproj</projectFile>
     <projectFile>57. Else if keyword and order of importance/57. Else if keyword and order of importance.csproj</projectFile>
     <projectFile>58. Equality operator and not equal/58. Equality operator and not equal.csproj</projectFile>
+    <projectFile>Nested if statements/Nested if statements.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -37,6 +38,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;.NET Project.57. Else if keyword and order of importance.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.58. Equality operator and not equal.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
@@ -50,7 +52,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.58. Equality operator and not equal">
+  <component name="RunManager" selected=".NET Project.Nested if statements">
     <configuration name="57. Else if keyword and order of importance" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -70,19 +72,19 @@
       </method>
     </configuration>
     <configuration name="58. Equality operator and not equal" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/59. Nested if statements/bin/Debug/net8.0/59. Nested if statements.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/59. Nested if statements/bin/Debug/net8.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/58. Equality operator and not equal/58. Equality operator and not equal.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/59. Nested if statements/59. Nested if statements.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net8.0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -105,6 +107,30 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Nested if statements" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Nested if statements/Nested if statements.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.57. Else if keyword and order of importance" />
+      <item itemvalue=".NET Project.58. Equality operator and not equal" />
+      <item itemvalue=".NET Project.MyApp" />
+      <item itemvalue=".NET Project.Nested if statements" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -116,7 +142,7 @@
       <updated>1743491129756</updated>
       <workItem from="1743491132948" duration="46000" />
       <workItem from="1743491273106" duration="74000" />
-      <workItem from="1743493379069" duration="4007000" />
+      <workItem from="1743493379069" duration="4714000" />
     </task>
     <servers />
   </component>
