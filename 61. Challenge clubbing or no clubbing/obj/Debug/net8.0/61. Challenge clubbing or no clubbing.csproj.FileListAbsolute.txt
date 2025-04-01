@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\bin\Debug\net8.0\61. Challenge clubbing or no clubbing.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\bin\Debug\net8.0\61. Challenge clubbing or no clubbing.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\bin\Debug\net8.0\61. Challenge clubbing or no clubbing.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\bin\Debug\net8.0\61. Challenge clubbing or no clubbing.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\bin\Debug\net8.0\61. Challenge clubbing or no clubbing.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\61. Challenge clubbing or no clubbing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\61. Challenge clubbing or no clubbing.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\61. Challenge clubbing or no clubbing.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\61. Challenge clubbing or no clubbing.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\61. Challenge clubbing or no clubbing.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\61. Challenge clubbing or no clubbing.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\refint\61. Challenge clubbing or no clubbing.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\61. Challenge clubbing or no clubbing.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\61. Challenge clubbing or no clubbing.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\61. Challenge clubbing or no clubbing\obj\Debug\net8.0\ref\61. Challenge clubbing or no clubbing.dll
