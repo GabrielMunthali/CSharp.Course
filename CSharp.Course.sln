@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58. Equality operator and n
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59. Nested if statements", "59. Nested if statements\59. Nested if statements.csproj", "{71468599-3915-453B-A5F3-73D1E31D20C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60. Understanding the scope of a varibale", "60. Understanding the scope of a varibale\60. Understanding the scope of a varibale.csproj", "{C93702A5-1952-4B50-A639-08146FE417E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{71468599-3915-453B-A5F3-73D1E31D20C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71468599-3915-453B-A5F3-73D1E31D20C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71468599-3915-453B-A5F3-73D1E31D20C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93702A5-1952-4B50-A639-08146FE417E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93702A5-1952-4B50-A639-08146FE417E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93702A5-1952-4B50-A639-08146FE417E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93702A5-1952-4B50-A639-08146FE417E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
