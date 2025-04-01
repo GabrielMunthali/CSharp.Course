@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\bin\Debug\net8.0\58. Equality operator and not equal.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\bin\Debug\net8.0\58. Equality operator and not equal.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\bin\Debug\net8.0\58. Equality operator and not equal.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\bin\Debug\net8.0\58. Equality operator and not equal.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\bin\Debug\net8.0\58. Equality operator and not equal.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\58. Equality operator and not equal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\58. Equality operator and not equal.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\58. Equality operator and not equal.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\58. Equality operator and not equal.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\58. Equality operator and not equal.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\58. Equality operator and not equal.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\refint\58. Equality operator and not equal.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\58. Equality operator and not equal.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\58. Equality operator and not equal.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\58. Equality operator and not equal\obj\Debug\net8.0\ref\58. Equality operator and not equal.dll
