@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61. Challenge clubbing or n
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62.  One line if statements", "62.  One line if statements\62.  One line if statements.csproj", "{0D1D54A9-41B2-4C85-B64E-6A050D2D601E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63. The Switch statement", "63. The Switch statement\63. The Switch statement.csproj", "{62FD6C90-20CF-4BC6-BCAD-BBA066ADC955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{0D1D54A9-41B2-4C85-B64E-6A050D2D601E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D1D54A9-41B2-4C85-B64E-6A050D2D601E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D1D54A9-41B2-4C85-B64E-6A050D2D601E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FD6C90-20CF-4BC6-BCAD-BBA066ADC955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FD6C90-20CF-4BC6-BCAD-BBA066ADC955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FD6C90-20CF-4BC6-BCAD-BBA066ADC955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FD6C90-20CF-4BC6-BCAD-BBA066ADC955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

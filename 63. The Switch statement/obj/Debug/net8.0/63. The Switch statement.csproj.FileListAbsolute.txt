@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\bin\Debug\net8.0\63. The Switch statement.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\bin\Debug\net8.0\63. The Switch statement.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\bin\Debug\net8.0\63. The Switch statement.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\bin\Debug\net8.0\63. The Switch statement.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\bin\Debug\net8.0\63. The Switch statement.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\63. The Switch statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\63. The Switch statement.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\63. The Switch statement.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\63. The Switch statement.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\63. The Switch statement.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\63. The Switch statement.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\refint\63. The Switch statement.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\63. The Switch statement.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\63. The Switch statement.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\63. The Switch statement\obj\Debug\net8.0\ref\63. The Switch statement.dll
