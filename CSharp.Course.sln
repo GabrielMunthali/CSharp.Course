@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60. Understanding the scope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61. Challenge clubbing or no clubbing", "61. Challenge clubbing or no clubbing\61. Challenge clubbing or no clubbing.csproj", "{BFF656AF-D8DB-45C6-9695-3C28055C63E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62.  One line if statements", "62.  One line if statements\62.  One line if statements.csproj", "{0D1D54A9-41B2-4C85-B64E-6A050D2D601E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{BFF656AF-D8DB-45C6-9695-3C28055C63E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFF656AF-D8DB-45C6-9695-3C28055C63E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFF656AF-D8DB-45C6-9695-3C28055C63E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1D54A9-41B2-4C85-B64E-6A050D2D601E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1D54A9-41B2-4C85-B64E-6A050D2D601E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1D54A9-41B2-4C85-B64E-6A050D2D601E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1D54A9-41B2-4C85-B64E-6A050D2D601E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
