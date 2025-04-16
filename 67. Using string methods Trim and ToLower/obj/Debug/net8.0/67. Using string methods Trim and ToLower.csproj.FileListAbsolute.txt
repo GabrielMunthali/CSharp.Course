@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\bin\Debug\net8.0\67. Using string methods Trim and ToLower.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\bin\Debug\net8.0\67. Using string methods Trim and ToLower.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\bin\Debug\net8.0\67. Using string methods Trim and ToLower.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\bin\Debug\net8.0\67. Using string methods Trim and ToLower.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\bin\Debug\net8.0\67. Using string methods Trim and ToLower.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\67. Using string methods Trim and ToLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\67. Using string methods Trim and ToLower.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\67. Using string methods Trim and ToLower.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\67. Using string methods Trim and ToLower.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\67. Using string methods Trim and ToLower.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\67. Using string methods Trim and ToLower.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\refint\67. Using string methods Trim and ToLower.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\67. Using string methods Trim and ToLower.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\67. Using string methods Trim and ToLower.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\67. Using string methods Trim and ToLower\obj\Debug\net8.0\ref\67. Using string methods Trim and ToLower.dll
