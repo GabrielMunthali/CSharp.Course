@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("69. Decrementing and modulo operator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a23625361e0462ed5a21dbff63a75cfd9a6d527")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2514e70e0347410ab61a82e7e911f4add3f50fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("69. Decrementing and modulo operator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("69. Decrementing and modulo operator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

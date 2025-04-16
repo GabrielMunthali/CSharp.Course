@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("67. Using string methods Trim and ToLower")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0affadfefb9fa58a7d35f811e7041a9ab4d13cb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2514e70e0347410ab61a82e7e911f4add3f50fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("67. Using string methods Trim and ToLower")]
 [assembly: System.Reflection.AssemblyTitleAttribute("67. Using string methods Trim and ToLower")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("58. Equality operator and not equal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e091f2732b361a9cb859067522cb0e051c4d5c31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2514e70e0347410ab61a82e7e911f4add3f50fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("58. Equality operator and not equal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("58. Equality operator and not equal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

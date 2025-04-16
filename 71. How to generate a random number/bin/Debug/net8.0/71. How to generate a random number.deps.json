@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "71. How to generate a random number/1.0.0": {
+        "runtime": {
+          "71. How to generate a random number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "71. How to generate a random number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
