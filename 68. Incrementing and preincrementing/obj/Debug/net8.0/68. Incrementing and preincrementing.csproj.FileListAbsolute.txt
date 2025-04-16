@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\bin\Debug\net8.0\68. Incrementing and preincrementing.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\bin\Debug\net8.0\68. Incrementing and preincrementing.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\bin\Debug\net8.0\68. Incrementing and preincrementing.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\bin\Debug\net8.0\68. Incrementing and preincrementing.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\bin\Debug\net8.0\68. Incrementing and preincrementing.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\68. Incrementing and preincrementing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\68. Incrementing and preincrementing.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\68. Incrementing and preincrementing.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\68. Incrementing and preincrementing.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\68. Incrementing and preincrementing.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\68. Incrementing and preincrementing.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\refint\68. Incrementing and preincrementing.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\68. Incrementing and preincrementing.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\68. Incrementing and preincrementing.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\68. Incrementing and preincrementing\obj\Debug\net8.0\ref\68. Incrementing and preincrementing.dll
