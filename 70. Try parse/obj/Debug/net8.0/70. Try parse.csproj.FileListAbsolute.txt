@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\bin\Debug\net8.0\70. Try parse.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\bin\Debug\net8.0\70. Try parse.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\bin\Debug\net8.0\70. Try parse.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\bin\Debug\net8.0\70. Try parse.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\bin\Debug\net8.0\70. Try parse.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\70. Try parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\70. Try parse.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\70. Try parse.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\70. Try parse.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\70. Try parse.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\70. Try parse.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\refint\70. Try parse.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\70. Try parse.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\70. Try parse.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\70. Try parse\obj\Debug\net8.0\ref\70. Try parse.dll

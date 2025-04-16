@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "68. Incrementing and preinc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69. Decrementing and modulo operator", "69. Decrementing and modulo operator\69. Decrementing and modulo operator.csproj", "{2863F7BA-2109-4207-A608-10CAADE27470}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70. Try parse", "70. Try parse\70. Try parse.csproj", "{CA94A9D6-4048-480F-BDB5-14F4931158DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{2863F7BA-2109-4207-A608-10CAADE27470}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2863F7BA-2109-4207-A608-10CAADE27470}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2863F7BA-2109-4207-A608-10CAADE27470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA94A9D6-4048-480F-BDB5-14F4931158DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA94A9D6-4048-480F-BDB5-14F4931158DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA94A9D6-4048-480F-BDB5-14F4931158DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA94A9D6-4048-480F-BDB5-14F4931158DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
