@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\bin\Debug\net8.0\69. Decrementing and modulo operator.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\bin\Debug\net8.0\69. Decrementing and modulo operator.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\bin\Debug\net8.0\69. Decrementing and modulo operator.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\bin\Debug\net8.0\69. Decrementing and modulo operator.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\bin\Debug\net8.0\69. Decrementing and modulo operator.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\69. Decrementing and modulo operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\69. Decrementing and modulo operator.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\69. Decrementing and modulo operator.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\69. Decrementing and modulo operator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\69. Decrementing and modulo operator.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\69. Decrementing and modulo operator.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\refint\69. Decrementing and modulo operator.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\69. Decrementing and modulo operator.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\69. Decrementing and modulo operator.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\69. Decrementing and modulo operator\obj\Debug\net8.0\ref\69. Decrementing and modulo operator.dll

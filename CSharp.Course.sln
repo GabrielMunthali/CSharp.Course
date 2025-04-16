@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67. Using string methods Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "68. Incrementing and preincrementing", "68. Incrementing and preincrementing\68. Incrementing and preincrementing.csproj", "{39CFC935-9CDF-46B3-B390-168834961203}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69. Decrementing and modulo operator", "69. Decrementing and modulo operator\69. Decrementing and modulo operator.csproj", "{2863F7BA-2109-4207-A608-10CAADE27470}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{39CFC935-9CDF-46B3-B390-168834961203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39CFC935-9CDF-46B3-B390-168834961203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39CFC935-9CDF-46B3-B390-168834961203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2863F7BA-2109-4207-A608-10CAADE27470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2863F7BA-2109-4207-A608-10CAADE27470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2863F7BA-2109-4207-A608-10CAADE27470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2863F7BA-2109-4207-A608-10CAADE27470}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
