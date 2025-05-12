@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\bin\Debug\net8.0\73. For loop.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\bin\Debug\net8.0\73. For loop.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\bin\Debug\net8.0\73. For loop.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\bin\Debug\net8.0\73. For loop.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\bin\Debug\net8.0\73. For loop.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\73. For loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\73. For loop.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\73. For loop.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\73. For loop.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\73. For loop.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\73. For loop.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\refint\73. For loop.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\73. For loop.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\73. For loop.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\73. For loop\obj\Debug\net8.0\ref\73. For loop.dll

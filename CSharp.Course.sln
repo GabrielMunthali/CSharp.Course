@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70. Try parse", "70. Try pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "71. How to generate a random number", "71. How to generate a random number\71. How to generate a random number.csproj", "{C44404E1-A124-45A0-B9EC-9636445B523B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73. For loop", "73. For loop\73. For loop.csproj", "{6266B6D0-A466-4C26-BE78-A6E629A4ECC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{C44404E1-A124-45A0-B9EC-9636445B523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C44404E1-A124-45A0-B9EC-9636445B523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C44404E1-A124-45A0-B9EC-9636445B523B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6266B6D0-A466-4C26-BE78-A6E629A4ECC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6266B6D0-A466-4C26-BE78-A6E629A4ECC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6266B6D0-A466-4C26-BE78-A6E629A4ECC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6266B6D0-A466-4C26-BE78-A6E629A4ECC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
