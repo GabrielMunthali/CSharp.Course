@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("68. Incrementing and preincrementing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2514e70e0347410ab61a82e7e911f4add3f50fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b416636d3520588b2cc49874d238666a591ac5")]
 [assembly: System.Reflection.AssemblyProductAttribute("68. Incrementing and preincrementing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("68. Incrementing and preincrementing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
