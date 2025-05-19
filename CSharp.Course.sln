@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "71. How to generate a rando
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73. For loop", "73. For loop\73. For loop.csproj", "{6266B6D0-A466-4C26-BE78-A6E629A4ECC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74. For loop count down", "74. For loop count down\74. For loop count down.csproj", "{EA8A2D8D-F382-4942-93BF-EFE4CB939950}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{6266B6D0-A466-4C26-BE78-A6E629A4ECC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6266B6D0-A466-4C26-BE78-A6E629A4ECC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6266B6D0-A466-4C26-BE78-A6E629A4ECC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8A2D8D-F382-4942-93BF-EFE4CB939950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8A2D8D-F382-4942-93BF-EFE4CB939950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8A2D8D-F382-4942-93BF-EFE4CB939950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8A2D8D-F382-4942-93BF-EFE4CB939950}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
