@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\bin\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\bin\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\bin\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\bin\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\bin\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\refint\75. Escape characters r and n aswell as Thread.Sleep.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\75. Escape characters r and n aswell as Thread.Sleep.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\75. Escape characters r and n aswell as Thread.Sleep\obj\Debug\net8.0\ref\75. Escape characters r and n aswell as Thread.Sleep.dll

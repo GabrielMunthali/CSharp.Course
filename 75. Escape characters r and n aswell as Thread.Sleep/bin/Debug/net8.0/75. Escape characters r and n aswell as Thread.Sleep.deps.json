@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "75. Escape characters r and n aswell as Thread.Sleep/1.0.0": {
+        "runtime": {
+          "75. Escape characters r and n aswell as Thread.Sleep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "75. Escape characters r and n aswell as Thread.Sleep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

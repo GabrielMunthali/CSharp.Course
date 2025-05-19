@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "73. For loop", "73. For loo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74. For loop count down", "74. For loop count down\74. For loop count down.csproj", "{EA8A2D8D-F382-4942-93BF-EFE4CB939950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75. Escape characters r and n aswell as Thread.Sleep", "75. Escape characters r and n aswell as Thread.Sleep\75. Escape characters r and n aswell as Thread.Sleep.csproj", "{5CBFC42B-B4B5-4038-BE6F-D8E240E3A29F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +109,10 @@ Global
 		{EA8A2D8D-F382-4942-93BF-EFE4CB939950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA8A2D8D-F382-4942-93BF-EFE4CB939950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA8A2D8D-F382-4942-93BF-EFE4CB939950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBFC42B-B4B5-4038-BE6F-D8E240E3A29F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBFC42B-B4B5-4038-BE6F-D8E240E3A29F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBFC42B-B4B5-4038-BE6F-D8E240E3A29F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBFC42B-B4B5-4038-BE6F-D8E240E3A29F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
