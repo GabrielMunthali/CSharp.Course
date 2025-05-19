@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("75. Escape characters r and n aswell as Thread.Sleep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f806eaf344a937349402edf3d0e6aba50b0221e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cc93f2a400ed9e85235af049d590e74864c437c")]
 [assembly: System.Reflection.AssemblyProductAttribute("75. Escape characters r and n aswell as Thread.Sleep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("75. Escape characters r and n aswell as Thread.Sleep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

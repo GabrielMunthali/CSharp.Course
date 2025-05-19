@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("59. Nested if statements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b633463c7b267e2a898cf69d19267f786a6e1257")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cc93f2a400ed9e85235af049d590e74864c437c")]
 [assembly: System.Reflection.AssemblyProductAttribute("59. Nested if statements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("59. Nested if statements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

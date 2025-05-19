@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\bin\Debug\net8.0\78. While loop.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\bin\Debug\net8.0\78. While loop.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\bin\Debug\net8.0\78. While loop.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\bin\Debug\net8.0\78. While loop.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\bin\Debug\net8.0\78. While loop.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\78. While loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\78. While loop.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\78. While loop.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\78. While loop.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\78. While loop.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\78. While loop.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\refint\78. While loop.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\78. While loop.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\78. While loop.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp.Course\78. While loop\obj\Debug\net8.0\ref\78. While loop.dll

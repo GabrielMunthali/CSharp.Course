@@ -2,7 +2,7 @@
 
 namespace MyApp
 {
-    class Program
+    static class Program
     {   
 
 
@@ -12,9 +12,9 @@ namespace MyApp
             //Operators and Order of evaluation
             int num1 = 14;
             Console.WriteLine("Please enter a whole number !");
-            int num2 = int.Parse (Console.ReadLine());
+            int num2 = int.Parse (Console.ReadLine()!);
 
-            //Concatination
+            //Concatenation
             Console.WriteLine("Age is " + num1);
 
             
